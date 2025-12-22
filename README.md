@@ -2,6 +2,9 @@
 
 I'm a researcher focused on **Graph Machine Learning** and **Data Science** — especially security-oriented graph modeling.
 
+![Gizem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizemkaryagdi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gizemkaryagdi&layout=compact)
+
 ## 🔭 Current focus
 - Heterogeneous GNNs 
 - Adversarial robustness on graphs (attacks adapted to graph settings)
@@ -27,7 +30,3 @@ I enjoy the mathematical side of ML — building strong foundations and improvin
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![PyG](https://img.shields.io/badge/PyTorch%20Geometric-3C3C3C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-![Gizem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizemkaryagdi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gizemkaryagdi&layout=compact)
