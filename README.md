@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @gizemkaryagdi
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Machine learning, LLM, Vectore Databases, Autogen.
-- 📫 How to reach me gizemkarydi@gmail.com
-- ⚡  Mathematics is very sacred to me and I find it very valuable to learn about data science, which is one of the areas where it is used most in the field of software, and to improve myself as I go.
+# Hi, I'm Gizem 👋
 
-<!---
-gizemkaryagdi/gizemkaryagdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a researcher focused on **Graph Machine Learning** and **Data Science** — especially security-oriented graph modeling.
+
+## 🔭 Current focus
+- Heterogeneous GNNs 
+- Adversarial robustness on graphs (attacks adapted to graph settings)
+- LLM agents (LangChain/LangGraph, AutoGen) & RAG
+- Vector databases & retrieval pipelines (PostgreSQL/pgvector)
+
+## 🧰 Tech stack
+**Python • PyTorch • PyTorch Geometric • Scikit-learn • Pandas • NumPy**  
+**PostgreSQL/pgvector • LangChain • LlamaIndex • Docker • Git**
+
+## 📌 Featured projects
+- **DNS demonstrate:** Client ⇄ Domain Hetero-GNN for malicious domain detection  
+- **Adversarial evaluation:** Graph attacks & robustness experiments on GNNs  
+- **RAG/Agents:** LLM agent workflows + vector search pipelines
+
+## 📫 Contact
+- Email: **gizemkarydi@gmail.com**
+- GitHub: **@gizemkaryagdi**
+
+## ⚡ A note
+I enjoy the mathematical side of ML — building strong foundations and improving systems step by step.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![PyG](https://img.shields.io/badge/PyTorch%20Geometric-3C3C3C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+![Gizem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizemkaryagdi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gizemkaryagdi&layout=compact)
