@@ -2,9 +2,6 @@
 
 I'm a researcher focused on **Graph Machine Learning** and **Data Science** — especially security-oriented graph modeling.
 
-![Gizem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizemkaryagdi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gizemkaryagdi&layout=compact)
-
 ## 🔭 Current focus
 - Heterogeneous GNNs 
 - Adversarial robustness on graphs (attacks adapted to graph settings)
