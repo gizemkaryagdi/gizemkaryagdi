@@ -1,9 +1,9 @@
-# Hi, I'm Gizem 👋
+# Hi, I'm Gizem 
 
 I'm a researcher focused on **Graph Machine Learning** and **Data Science** — especially security-oriented graph modeling.
 
 ## 🔭 Current focus
-- Heterogeneous GNNs 
+- GNNs 
 - Adversarial robustness on graphs (attacks adapted to graph settings)
 - LLM agents (LangChain/LangGraph, AutoGen) & RAG
 - Vector databases & retrieval pipelines (PostgreSQL/pgvector)
